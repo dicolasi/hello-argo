@@ -1,0 +1,13 @@
+{
+  "appName": "cert-manger",
+  "userGivenName": "cert-manger",
+  "destNamespace": "default",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "tree/master/system/cert-manager",
+  "srcRepoURL": "https://github.com/jessesuen/apps.jessesuen.com.git",
+  "srcTargetRevision": "",
+  "labels": null,
+  "annotations": null,
+  "exclude": "",
+  "include": ""
+}
