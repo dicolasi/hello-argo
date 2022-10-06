@@ -1,0 +1,11 @@
+{
+  "appName": "cert-manger",
+  "userGivenName": "cert-manger",
+  "destNamespace": "default",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "apps/cert-manger/overlays/hello-world",
+  "srcRepoURL": "https://github.com/dicolasi/hello-argo.git",
+  "srcTargetRevision": "",
+  "labels": null,
+  "annotations": null
+}
