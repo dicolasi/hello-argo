@@ -8,4 +8,6 @@ helmCharts:
     version: 4.3.0
     repo: https://kubernetes.github.io/ingress-nginx
     namespace: ingress-nginx
+resources:
+  - ns.yaml
 
