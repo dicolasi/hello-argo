@@ -1,0 +1,11 @@
+{
+  "appName": "cert-manager",
+  "userGivenName": "cert-manager",
+  "destNamespace": "cert-manager",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "apps/cert-manager/overlays/propert-xyz",
+  "srcRepoURL": "https://github.com/dicolasi/hello-argo.git",
+  "srcTargetRevision": "",
+  "labels": null,
+  "annotations": null
+}
