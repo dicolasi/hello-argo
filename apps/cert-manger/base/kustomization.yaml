@@ -7,3 +7,4 @@ helmCharts:
     releaseName: cert-manager
     version: 1.9.1
     repo: https://charts.jetstack.io
+    namespace: cert-manager
