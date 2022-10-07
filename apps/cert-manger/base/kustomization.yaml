@@ -8,3 +8,6 @@ helmCharts:
     version: 1.9.1
     repo: https://charts.jetstack.io
     namespace: cert-manager
+resources:
+  - c.yaml
+  - ns.yaml
