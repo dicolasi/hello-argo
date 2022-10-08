@@ -1,0 +1,11 @@
+{
+  "appName": "workflows",
+  "userGivenName": "workflows",
+  "destNamespace": "default",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "apps/workflows/overlays/propert-xyz",
+  "srcRepoURL": "https://github.com/dicolasi/hello-argo.git",
+  "srcTargetRevision": "",
+  "labels": null,
+  "annotations": null
+}
