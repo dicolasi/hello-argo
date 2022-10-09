@@ -4,7 +4,7 @@
   "destNamespace": "default",
   "destServer": "https://kubernetes.default.svc",
   "srcPath": "apps/hello-world/overlays/propert-xyz",
-  "srcRepoURL": "https://github.com/dicolasi/hello-argo.git",
+  "srcRepoURL": "https://github.com/dicolasi/hello-quarkus.git",
   "srcTargetRevision": "",
   "labels": null,
   "annotations": null
