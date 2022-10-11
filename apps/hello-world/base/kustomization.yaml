@@ -3,4 +3,7 @@ kind: Kustomization
 resources:
 - https://github.com/dicolasi/hello-quarkus.git/kustomize/base/
 images:
-  - newTag: does-not-exist
+- newTag: does-not-exist
+- name: dicolasi/hello-quarkus
+  newName: ghcr.io/dicolasi/hello-quarkus
+  newTag: v0.12.42
