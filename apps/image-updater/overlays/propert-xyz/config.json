@@ -6,12 +6,6 @@
   "srcPath": "apps/image-updater/overlays/propert-xyz",
   "srcRepoURL": "https://github.com/dicolasi/hello-argo.git",
   "srcTargetRevision": "",
-  "labels": {
-    "test": "me"
-  },
-  "annotations": {
-    "argocd-image-updater.argoproj.io/image-list": "dicolasi/hello-quarkus",
-    "argocd-image-updater.argoproj.io/write-back-method": "git:secret:argocd/github",
-    "argocd-image-updater.argoproj.io/git-branch": "main"
-  }
+  "labels": null,
+  "annotations": null
 }
