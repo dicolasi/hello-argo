@@ -1,0 +1,11 @@
+{
+  "appName": "image-updater",
+  "userGivenName": "image-updater",
+  "destNamespace": "default",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "apps/image-updater/overlays/propert-xyz",
+  "srcRepoURL": "https://github.com/dicolasi/hello-argo.git",
+  "srcTargetRevision": "",
+  "labels": null,
+  "annotations": null
+}
