@@ -5,4 +5,4 @@ resources:
 images:
 - name: dicolasi/hello-quarkus
   newName: ghcr.io/dicolasi/hello-quarkus
-  newTag: v0.12.50
+  newTag: v0.12.51
