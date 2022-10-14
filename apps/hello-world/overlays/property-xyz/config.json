@@ -1,7 +1,7 @@
 {
   "appName": "hello-world",
   "userGivenName": "hello-world",
-  "destNamespace": "test",
+  "destNamespace": "default",
   "destServer": "https://kubernetes.default.svc",
   "srcPath": "apps/hello-world/overlays/property-xyz",
   "srcRepoURL": "https://github.com/dicolasi/hello-argo.git",
