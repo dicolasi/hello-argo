@@ -3,7 +3,6 @@ kind: Kustomization
 resources:
 - https://github.com/dicolasi/hello-quarkus.git/kustomize/base/
 images:
-- newName: ghcr.io/dicolasi/hello-quarkus
 - name: dicolasi/hello-quarkus
   newName: ghcr.io/dicolasi/hello-quarkus
   newTag: v0.12.51
